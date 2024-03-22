@@ -3,7 +3,7 @@
 <div align="center">
   <a href="https://github.com/kabggis/kabggis.github.io">
     <!-- FIXME: Ganti Logo -->
-    <img src="logo.png" alt="Logo" width="80" height="80">
+    <img src="https://avatars.githubusercontent.com/u/164467416" alt="Logo" width="80" height="80">
   </a>
 
 <h3 align="center">KabGGIS</h3>
