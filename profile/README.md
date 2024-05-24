@@ -89,9 +89,9 @@ Jika Anda ingin berkontribusi pada projek ini, silakan ikuti langkah-langkah di 
 
 <p align="right">(<a href="#readme-top">kembali ke atas</a>)</p>
 
-[home-screenshot]: public/screenshots/home.png
-[spatial-screenshot]: public/screenshots/spatial.png
-[tabular-screenshot]: public/screenshots/tabular.png
+[home-screenshot]: https://github.com/kabggis/kabggis.github.io/raw/main/public/screenshots/home.png
+[spatial-screenshot]: https://github.com/kabggis/kabggis.github.io/raw/main/public/screenshots/spatial.png
+[tabular-screenshot]: https://github.com/kabggis/kabggis.github.io/raw/main/public/screenshots/tabular.png
 [React.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
 [React-url]: https://reactjs.org/
 [TailwindCSS]: https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white
